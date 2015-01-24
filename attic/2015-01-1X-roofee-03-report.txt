@@ -4,7 +4,7 @@
 1)
 Complete at 252 sec (2015.01.18.22.40.34..2015.01.18.22.44.46)
 File count : 0
-Data size  : 59G	/home/ark/photo/alb/photo/2012/
+Data size  : 59G	/home/user/photo/alb/photo/2012/
 Index size : 1.1M	/dev/shm/ROOFEE_CSV
 
 
@@ -13,7 +13,7 @@ Index size : 1.1M	/dev/shm/ROOFEE_CSV
 
 Complete at 1523 sec (2015.01.18.22.48.07..2015.01.18.23.13.30)
 File count : 0
-Data size  : 313G	/home/ark/photo/alb/
+Data size  : 313G	/home/user/photo/alb/
 Index size : 8.8M	/dev/shm/roofee.csv
 
 
@@ -54,7 +54,7 @@ Complete at 2145 sec (2015.01.15.02.44.02..2015.01.15.03.19.47)
 File count : 0
 Link count : 0
 Tag count : 0
-Data size  : 313G    /home/ark/photo/alb/
+Data size  : 313G    /home/user/photo/alb/
 Index size : 393M    /tmp/rubrdir
 
 ark[rubr]$ ls -lah /tmp/rubrdir-error.log

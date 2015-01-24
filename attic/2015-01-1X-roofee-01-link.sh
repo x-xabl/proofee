@@ -3,9 +3,9 @@
 # 2015-01-15 [+] make softlink-based tag cloud (-;
 #
 
-PHOTODIR=/home/ark/photo/alb/photo/2012/
-#PHOTODIR=/home/ark/photo/alb/mobile/
-#PHOTODIR=/home/ark/photo/alb/
+PHOTODIR=/home/user/photo/alb/photo/2012/
+#PHOTODIR=/home/user/photo/alb/mobile/
+#PHOTODIR=/home/user/photo/alb/
 #RUBRDIR=/tmp/rubrdir
 RUBRDIR=/dev/shm/rubrdir
 #ERRORLOG=$RUBRDIR/error.log
