@@ -1,0 +1,62 @@
+
+== 2015-01-19
+
+1)
+Complete at 252 sec (2015.01.18.22.40.34..2015.01.18.22.44.46)
+File count : 0
+Data size  : 59G	/home/ark/photo/alb/photo/2012/
+Index size : 1.1M	/dev/shm/ROOFEE_CSV
+
+
+2)
+::: 1523 / 60 = 25 min
+
+Complete at 1523 sec (2015.01.18.22.48.07..2015.01.18.23.13.30)
+File count : 0
+Data size  : 313G	/home/ark/photo/alb/
+Index size : 8.8M	/dev/shm/roofee.csv
+
+
+
+== 2015-01-15
+
+Отчет номар один!
+
+
+Tag
+  'rubrdir': 23
+  '5D': 497
+  '1100D': 129
+  'N6700': 2277
+  'K5': 11583
+  'JPG': 70136
+  'A700': 279
+  'S6150': 6
+  '400D': 2710
+  '50D': 14
+  'D7000': 4
+  'SX110': 192
+  '1DM4': 308
+  'RAW': 1409
+  'F31': 400
+  '1DM3': 711
+  'GTI8190': 213
+  'Nexus5': 325
+  'H20': 56
+  'D60': 38
+  'D3000': 213
+  '1000D': 194
+  'Z710e': 60
+  'FZ28': 9920
+
+Complete at 2145 sec (2015.01.15.02.44.02..2015.01.15.03.19.47)
+
+File count : 0
+Link count : 0
+Tag count : 0
+Data size  : 313G    /home/ark/photo/alb/
+Index size : 393M    /tmp/rubrdir
+
+ark[rubr]$ ls -lah /tmp/rubrdir-error.log
+-rw-rw-r-- 1 ark ark 4.5M Jan 15 03:19 /tmp/rubrdir-error.log
+ark[rubr]$
